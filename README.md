@@ -35,7 +35,7 @@ j
 - Requirements
 - Recommended modules
 - Installation
-- Configuration
+- Configurationd
 - Troubleshooting
 - FAQ
 - Maintainers
