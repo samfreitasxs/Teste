@@ -14,14 +14,7 @@
 * [Licença](#licença)
 * [Conclusão](#conclusão)
 
-teste etste testte
 
-
-teste teste teste
-
-sjsjs
-kddsdsds 
-j
 
 ## Table of contents
 
